@@ -10,7 +10,7 @@ React Native
 
 JavaScript
 
-Expo (se você usou)
+Expo 
 
 Componentes funcionais
 
