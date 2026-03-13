@@ -26,18 +26,6 @@ Exibir o resultado na tela
 
 Interface simples e intuitiva
 
-📂 Estrutura do projeto
-app-calculadora-multiplicacao
-│
-├── App.js
-├── componentes
-│   └── Calculadora
-│       └── index.js
-│
-├── estilo
-│   └── estilo.js
-│
-└── package.json
 ⚙️ Como executar o projeto
 
 1️⃣ Clone o repositório
