@@ -42,7 +42,7 @@ app-calculadora-multiplicacao
 
 1️⃣ Clone o repositório
 
-git clone https://github.com/seu-usuario/app-calculadora-multiplicacao.git
+git clone (https://github.com/RodrigoMartins8891/app-calculadora-multiplicacao)
 
 2️⃣ Entre na pasta do projeto
 
